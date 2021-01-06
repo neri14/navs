@@ -2,3 +2,5 @@ Debug
 SDK
 NAVS.vcxproj.user
 .vs
+Test/Test.vcxproj.user
+packages
